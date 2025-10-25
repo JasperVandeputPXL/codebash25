@@ -1,0 +1,7 @@
+0 1-9-17-Cashier 6-9-17-Cleaning 10-9-17-Stocking 8-9-17-Stocking
+1 1-8-17-Cashier 6-8-17-Cleaning 10-8-17-Cleaning 8-8-17-Stocking
+2 1-6-17-Cashier 10-6-17-Stocking 8-6-17-Stocking
+3 1-7-16-Cashier 10-7-16-Inventory 8-7-16-Stocking
+4 1-10-21-Cashier 6-10-21-Cleaning 10-10-21-Inventory 8-10-21-Inventory 5-10-21-Stocking
+5 1-8-17-Cashier 10-8-17-Inventory 8-8-17-Stocking
+6 1-9-20-Cashier 10-9-20-Stocking
