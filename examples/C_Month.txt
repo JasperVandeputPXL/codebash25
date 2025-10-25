@@ -1,0 +1,47 @@
+150 300
+30
+0 8 18 1000 Cashier,Cleaning,Cleaning,Management,Stocking
+1 8 17 900 Cashier,Stocking
+2 10 20 1000 Cashier,Management,Stocking,Stocking
+3 10 19 1000 Cashier,Stocking,Stocking
+4 9 17 1500 Cashier,Stocking
+5 9 19 1200 Cashier,Cashier,Stocking
+6 8 19 500 Cashier,Stocking
+7 7 18 1000 Cashier,Cashier,Cleaning,Cleaning,Stocking
+8 9 17 900 Cashier,Cashier,Cashier,Stocking,Stocking
+9 7 17 1000 Cashier,Cleaning,Inventory,Stocking,Stocking
+10 6 16 1000 Cashier,Cashier,Cleaning,Cleaning,Stocking
+11 7 15 1500 Cashier,Stocking
+12 6 16 1200 Cashier,Cashier,Management,Stocking
+13 6 15 500 Cashier,Inventory,Inventory,Inventory,Stocking
+14 9 20 1000 Cashier,Stocking
+15 8 18 900 Cashier,Stocking
+16 6 14 1000 Cashier,Stocking
+17 8 17 1000 Cashier,Inventory,Stocking
+18 10 19 1500 Cashier,Stocking,Stocking,Stocking,Stocking
+19 9 18 1200 Cashier,Stocking,Stocking,Stocking
+20 8 16 500 Cashier,Stocking
+21 6 14 1000 Cashier,Cashier,Inventory,Stocking
+22 9 17 900 Cashier,Stocking,Stocking,Stocking
+23 10 20 1000 Cashier,Cashier,Cashier,Stocking,Stocking
+24 10 21 1000 Cashier,Stocking
+25 7 18 1500 Cashier,Cleaning,Stocking,Stocking
+26 6 17 1200 Cashier,Stocking,Stocking,Stocking
+27 10 20 500 Cashier,Stocking
+28 8 18 1000 Cashier,Stocking
+29 8 18 900 Cashier,Stocking
+2 32 17 4 2 Cleaning,Cashier,Inventory,Management _
+10 24 12 7 2 _ _
+4 40 14 5 2 _ _
+6 40 16 6 2 Management,Cleaning,Inventory,Cashier _
+3 40 14 7 2 Inventory _
+1 24 18 7 2 Stocking,Inventory,Cashier,Management _
+5 40 17 5 2 Inventory,Management,Stocking,Cleaning _
+13 24 18 7 2 Cleaning,Inventory,Management,Cashier _
+9 40 15 4 2 Cleaning _
+15 24 18 7 2 Inventory,Cashier,Cleaning,Stocking _
+11 24 15 4 2 Cashier _
+12 24 16 4 2 Management,Cashier,Inventory _
+7 24 17 5 2 Cashier,Inventory,Stocking _
+14 38 13 5 2 Management _
+8 38 15 4 2 Cleaning _

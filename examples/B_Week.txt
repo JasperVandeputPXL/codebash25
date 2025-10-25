@@ -1,0 +1,19 @@
+150 300
+7
+0 9 17 1000 Cashier,Cleaning,Stocking,Stocking
+1 8 17 900 Cashier,Cleaning,Cleaning,Stocking
+2 6 17 1000 Cashier,Stocking,Stocking
+3 7 16 1000 Cashier,Inventory,Stocking
+4 10 21 1500 Cashier,Cleaning,Inventory,Inventory,Stocking
+5 8 17 1300 Cashier,Inventory,Stocking
+6 9 20 500 Cashier,Stocking
+3 24 18 5 5 Stocking,Cleaning,Cashier,Inventory _
+6 38 13 5 5 Cleaning _
+1 38 16 5 5 Cashier,Inventory _
+2 38 13 5 4 _ _
+4 38 13 6 5 _ _
+8 40 16 6 7 Cleaning,Stocking,Inventory _
+10 38 15 5 5 Stocking,Inventory,Cleaning _
+9 40 17 4 4 Stocking,Cleaning,Cashier _
+5 40 16 4 3 Stocking,Inventory,Cleaning,Cashier _
+7 38 17 5 5 Cashier,Cleaning,Inventory _

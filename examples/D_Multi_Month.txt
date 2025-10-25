@@ -1,0 +1,162 @@
+150 5500
+60
+0 9 17 8046 Baker,Cashier,Cleaning,CustomerService,FreshFood,Inventory,Seafood,Wine,Wine
+1 6 16 7869 Butcher,Cashier,CustomerService,FreshFood,Seafood,Stocking,Stocking
+2 8 17 8008 Baker,Baker,Butcher,Cashier,Cleaning,Cleaning,CustomerService,CustomerService,Seafood
+3 9 20 8073 Baker,Baker,Cashier,Cleaning,Inventory,Inventory,Inventory,Seafood,Stocking,Stocking,Wine
+4 9 20 8067 Baker,Baker,Butcher,Butcher,Cashier,Cashier,FreshFood,Seafood,Seafood,Stocking
+5
+6
+7 8 16 7926 Cashier,CustomerService,FreshFood,Seafood,Stocking,Wine,Wine,Wine
+8 8 19 8078 Baker,Butcher,Cashier,Cleaning,CustomerService,FreshFood,Stocking,Stocking
+9 8 16 7927 Baker,Butcher,Butcher,CustomerService,CustomerService,FreshFood,FreshFood,Inventory,Seafood,Seafood,Seafood,Wine
+10 6 16 8056 Baker,Cashier,Cleaning,CustomerService,CustomerService,FreshFood,Inventory,Inventory,Wine,Wine
+11 10 21 7934 Butcher,Butcher,Cleaning,CustomerService,Inventory,Inventory,Seafood,Stocking,Stocking
+12
+13
+14 7 16 7906 Cleaning,CustomerService,FreshFood,Inventory,Inventory,Wine,Wine
+15 6 16 7985 Baker,Butcher,Butcher,Cleaning,CustomerService,CustomerService,FreshFood,Inventory,Inventory,Stocking,Stocking,Stocking
+16 7 17 7902 Baker,Cashier,CustomerService,CustomerService,FreshFood,FreshFood,Inventory,Inventory,Stocking,Stocking
+17 10 21 8082 Baker,Butcher,Cashier,Cleaning,CustomerService,FreshFood,FreshFood,Inventory,Seafood,Wine
+18 10 19 8037 Butcher,Cashier,Cashier,Cleaning,Inventory,Inventory,Seafood,Seafood,Stocking
+19
+20
+21 9 19 7859 Baker,Butcher,Butcher,Cleaning,FreshFood,FreshFood,Inventory,Seafood,Wine
+22 8 17 7881 Baker,Butcher,Cashier,Cashier,Cleaning,Inventory,Seafood,Wine,Wine
+23 8 17 7862 Butcher,Cashier,Cashier,Cleaning,CustomerService,Seafood,Wine
+24 10 20 7847 Butcher,Cashier,Cleaning,CustomerService,CustomerService,Inventory,Inventory,Inventory,Seafood,Seafood,Stocking
+25 7 15 7947 Butcher,Butcher,FreshFood,FreshFood,FreshFood,FreshFood,Inventory,Seafood,Stocking
+26
+27
+28 7 16 7839 Cashier,Cashier,Cashier,Cleaning,Seafood,Wine,Wine,Wine
+29 10 20 8007 Baker,Baker,Butcher,Cleaning,FreshFood,Inventory,Stocking,Wine,Wine
+30 7 15 8022 Baker,Cashier,Cleaning,FreshFood,FreshFood,FreshFood,Seafood
+31 9 19 7969 Butcher,Cleaning,CustomerService,Inventory,Inventory,Seafood,Stocking,Stocking,Stocking
+32 8 18 7961 Baker,Butcher,Butcher,Cashier,Cleaning,CustomerService,CustomerService,Inventory,Seafood,Wine
+33
+34
+35 10 18 8041 Butcher,Butcher,Cashier,Cleaning,FreshFood,Seafood,Wine
+36 6 16 8056 Baker,Butcher,Inventory,Seafood,Seafood,Seafood,Stocking
+37 6 14 8077 Baker,Baker,Cashier,Cashier,CustomerService,CustomerService,Seafood,Stocking
+38 9 19 8074 Baker,Baker,Cashier,Cleaning,FreshFood,Inventory,Inventory,Seafood,Stocking,Stocking,Wine
+39 7 18 7894 Baker,Baker,Baker,Cleaning,CustomerService,CustomerService,CustomerService,FreshFood,Inventory,Stocking,Wine
+40
+41
+42 10 19 7964 Baker,Butcher,Butcher,Butcher,FreshFood,FreshFood,Seafood,Stocking,Stocking,Stocking,Wine
+43 6 15 7952 Butcher,Butcher,Cashier,Cashier,Cleaning,Cleaning,Cleaning,CustomerService,Inventory,Inventory,Stocking,Stocking
+44 7 16 7998 Baker,Baker,Butcher,Butcher,Cashier,Cleaning,CustomerService,FreshFood,FreshFood,Inventory,Seafood
+45 9 17 7912 Cashier,Cleaning,CustomerService,Inventory,Inventory,Seafood,Seafood,Stocking,Stocking,Wine
+46 7 16 7876 Baker,Baker,Cashier,CustomerService,FreshFood,FreshFood,Seafood,Seafood,Stocking
+47
+48
+49 10 20 8021 Cashier,Cleaning,FreshFood,Inventory,Inventory,Seafood,Stocking,Wine,Wine
+50 9 17 8026 Baker,Baker,Butcher,Cashier,Cleaning,Cleaning,Cleaning,CustomerService,FreshFood,Inventory,Wine
+51 6 17 8017 Cashier,CustomerService,CustomerService,CustomerService,CustomerService,FreshFood,FreshFood,FreshFood,Inventory
+52 8 17 7945 Baker,Inventory,Seafood,Seafood,Stocking,Stocking,Wine
+53 6 17 7882 Butcher,Cleaning,Cleaning,Cleaning,CustomerService,CustomerService,Inventory,Seafood,Seafood,Wine
+54
+55
+56 6 17 7894 Baker,Butcher,Cashier,Cleaning,Seafood,Stocking,Wine,Wine
+57 7 18 7904 Baker,Cashier,Cleaning,CustomerService,FreshFood,FreshFood,Inventory,Inventory,Inventory,Seafood,Stocking,Wine
+58 10 20 7839 Baker,Baker,Cleaning,Inventory,Stocking,Stocking,Stocking,Wine
+59 10 20 7857 Butcher,Cashier,Cashier,Cashier,FreshFood,FreshFood,FreshFood,FreshFood,Inventory,Inventory,Wine,Wine
+1 40 16 2 0 Cashier,Cleaning 46
+2 40 16 2 2 Wine,CustomerService _
+3 40 18 3 1 Cashier,Cleaning,Inventory 37,26
+4 40 18 1 1 Seafood,Cashier,Baker 34,27
+5 40 14 2 5 Seafood 42
+6 40 20 2 0 CustomerService,Wine,Cashier,Seafood 15
+7 40 18 4 5 FreshFood,Wine,Butcher _
+8 40 20 3 5 Cashier,Stocking,Butcher,Wine 59,16
+9 40 20 2 1 Seafood,Cleaning,Inventory,CustomerService 37,46
+10 40 16 3 3 Seafood,FreshFood _
+11 40 12 3 7 _ 11
+12 40 18 2 3 Cleaning,Inventory,Seafood 23
+13 40 20 4 4 Wine,Butcher,FreshFood,Stocking _
+14 40 18 3 3 Cashier,CustomerService,Stocking _
+15 40 12 1 1 _ 55
+16 40 16 3 3 Stocking,Cashier 12
+17 40 16 3 0 Stocking,Cashier 54,39
+18 40 20 1 0 Seafood,CustomerService,Wine,Cashier 12
+19 40 16 4 1 Inventory,CustomerService _
+20 40 18 5 5 CustomerService,Inventory,Cashier 0
+21 40 18 1 0 Cleaning,FreshFood,Butcher 18,21
+22 40 14 3 1 Inventory 1,51
+23 40 12 2 5 _ 16,59
+24 40 20 3 3 Butcher,Cashier,FreshFood,Cleaning 47,20
+25 40 12 3 0 _ _
+26 40 16 3 6 Wine,Stocking _
+27 40 12 3 2 _ _
+28 40 20 5 9 Seafood,Baker,Wine,FreshFood 5,6
+29 40 18 2 1 Seafood,Baker,Butcher _
+30 40 20 4 1 Seafood,Cleaning,CustomerService,Stocking 40,41
+31 40 16 2 2 FreshFood,Cleaning 11
+32 40 16 3 3 Baker,Stocking 13
+33 40 14 2 3 Butcher 3,42
+34 40 14 2 0 FreshFood 38
+35 40 18 2 0 Cleaning,Stocking,Cashier 30,50
+36 40 12 2 0 _ 21,54
+37 40 20 4 3 Seafood,Butcher,Baker,Stocking 57,23
+38 40 16 5 4 Cashier,Inventory 53
+39 40 20 3 3 Stocking,Cashier,Wine,Seafood 38
+40 40 20 4 2 Cleaning,Wine,Inventory,FreshFood 51,9
+41 40 16 1 0 Seafood,Inventory _
+42 40 12 3 4 _ 16
+43 40 20 5 5 Baker,Cleaning,Cashier,Wine _
+44 40 18 4 5 Butcher,CustomerService,Cashier 16
+45 40 14 3 3 Baker _
+46 40 12 3 6 _ 30,48
+47 40 12 1 1 _ 47,0
+48 40 20 3 2 Wine,Stocking,Butcher,Inventory 47
+49 40 18 5 0 FreshFood,Seafood,CustomerService 32
+50 40 18 4 7 Stocking,FreshFood,Baker 20
+51 40 12 3 7 _ 43,14
+52 40 12 3 3 _ 26
+53 40 16 4 4 Seafood,Butcher 27
+54 40 12 2 0 _ _
+55 40 16 2 0 FreshFood,Butcher _
+56 40 16 4 4 Inventory,Baker _
+57 40 12 4 4 _ 4
+58 40 12 3 5 _ 26,39
+59 40 16 3 4 Stocking,Wine 55
+60 40 20 2 4 Cleaning,Stocking,Inventory,Butcher 10
+61 40 20 3 1 FreshFood,Seafood,Inventory,Baker 59
+62 40 12 4 1 _ _
+63 40 12 3 2 _ 51
+64 40 20 4 1 Seafood,Wine,Cashier,Stocking 53
+65 40 20 4 6 Cleaning,Seafood,Cashier,FreshFood 55
+66 40 14 3 5 Cleaning _
+67 40 14 4 2 Wine 30,46
+68 40 20 2 3 Stocking,FreshFood,Butcher,Baker 20
+69 40 20 3 0 Cashier,Wine,Seafood,Stocking _
+70 40 12 3 4 _ _
+71 40 20 3 3 Inventory,Wine,Seafood,Cleaning _
+72 40 16 1 2 Butcher,Wine 15,16
+73 40 20 4 0 Wine,Seafood,Cashier,FreshFood 44,50
+74 40 12 3 2 _ 48
+75 40 20 3 4 Butcher,Cashier,Stocking,CustomerService 25,16
+76 40 16 5 8 Baker,Wine 50
+77 40 14 3 5 Stocking 50,2
+78 40 16 4 3 FreshFood,Baker _
+79 40 12 4 2 _ _
+80 40 16 3 0 Cashier,Baker _
+81 40 18 3 0 Cashier,Seafood,Inventory _
+82 40 20 3 6 Seafood,Stocking,Butcher,Baker 17,16
+83 40 20 2 3 Stocking,Inventory,FreshFood,Seafood 43
+84 40 12 3 4 _ _
+85 40 14 4 3 Butcher _
+86 40 14 4 5 Wine _
+87 40 18 3 4 Butcher,Wine,Cleaning 0
+88 40 20 4 7 Stocking,Inventory,Seafood,CustomerService 22,57
+89 40 16 3 5 FreshFood,Cleaning _
+90 40 18 1 1 CustomerService,Cashier,Seafood 11,36
+91 40 12 3 0 _ 8,27
+92 40 14 5 6 Stocking 16
+93 40 18 3 3 Seafood,FreshFood,Baker 22,15
+94 40 20 3 2 Cashier,Wine,Cleaning,Baker 25,24
+95 40 16 2 0 Cleaning,Stocking _
+96 40 16 2 0 Wine,Cleaning 42,35
+97 40 18 2 5 FreshFood,Cashier,Inventory _
+98 40 18 5 4 Butcher,Cashier,Inventory 50,23
+99 40 16 5 6 Stocking,Wine 33
+100 40 16 3 7 Butcher,Cleaning 12,23
